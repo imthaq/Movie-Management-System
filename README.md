@@ -100,6 +100,11 @@ Hash tables resolve collisions efficiently using separate chaining via linked li
 
 ## Credits
 
+- Imtishal Haq
+- Harram Javed
+
+## Credits
+
 Special thanks to:
 - **Miss Kainat Iqbal**
 - **Sir Abdl Wahab**
